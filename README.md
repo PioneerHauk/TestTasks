@@ -1,3 +1,2 @@
 # TestTasks
-Test tasks and projects from various learning platforms.
-For my resume and potential employers
+My test tasks and projects from various learning platforms.
