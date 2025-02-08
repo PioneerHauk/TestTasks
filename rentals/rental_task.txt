@@ -1,0 +1,10 @@
+In this project, you will use regression models to predict the number of days a customer rents DVDs for.
+Set random_state to 9 whenever you use a function/method involving randomness, for example, when doing a test-train split.
+
+Create a column named "rental_length_days". 
+This column should contain information on how many days a DVD has been rented by a customer. 
+Choose it as a target column.
+
+Recommend a model yielding a mean squared error (MSE) less than 3 on the test set
+
+Save the model you would recommend as a variable named best_model, and save its MSE on the test set as best_mse
