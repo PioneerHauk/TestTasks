@@ -1,4 +1,4 @@
-Inspect 'Online Retail.csv' dataset. Build a forecasting model to predict 'Quantity' of products sold.
+Inspect 'Online Retail.csv' dataset. Build a forecasting model using PySpark to predict 'Quantity' of products sold.
 
 Split the data into two sets based on the splitting date '2011-09-25'. All data up to and including this date should be in the training set, while data after this date should be in the test set.
 
